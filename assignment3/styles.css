@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap");
+* {
+  background-color: #e1d5d5e8;
+  font-family: "Poppins", sans-serif !important;
+}
+student {
+  margin-left: 27%;
+  margin-right: auto;
+  width: 60em;
+  margin-top: 20%;
+}
+fname,
+lname,
+email,
+year,
+branch,
+elective {
+  padding: 20px;
+  background-color: #fff;
+  border: 2px #00bfff solid;
+}

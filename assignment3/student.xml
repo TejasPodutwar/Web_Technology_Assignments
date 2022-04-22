@@ -1,0 +1,13 @@
+<?xml version="1.0"?>  
+<!DOCTYPE student SYSTEM "student.dtd">  
+
+<?xml-stylesheet type="text/css" href="styles.css"?>   
+
+<student>
+    <fname>Tejas</fname>
+    <lname>Podutwar</lname>
+     <email>tejaskumar8501@gmail.com</email>
+     <year>T.E.</year>
+     <branch>Computer Engineering</branch>
+     <elective>Cloud</elective>
+</student>

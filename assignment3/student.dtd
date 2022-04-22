@@ -1,0 +1,7 @@
+<!ELEMENT student (fname, lname, email, year, branch, elective)>
+<!ELEMENT fname (#PCDATA)>
+<!ELEMENT lname (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT elective (#PCDATA)>
